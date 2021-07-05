@@ -56,7 +56,7 @@ p{
   .dream-text{
     width: 50%;
     padding-right: 10%;
-    padding-left: 5%;
+    padding-left: 10%;
   }
 
  .h3-{
@@ -72,4 +72,20 @@ p{
 
  .flexi{
      display: flex;
+ }
+ .experience-area{
+     
+     padding-top: 5%;
+ }
+ .experi-item{
+     box-shadow: 10px 10px 40px green;
+     width: 40%;
+     padding-left: 5%;
+     padding-right: 5%;
+     margin-left: 5%;
+     margin-right: 5%;
+     margin-bottom: 5%;
+ }
+ h2{
+     font-size: 35px;
  }
