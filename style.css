@@ -1,9 +1,8 @@
 .sec-display{
     display: flex;
-    background-image: url(exp-bg.png);
+    background-image: url(top-banner.png);
     background-repeat: no-repeat;
-    background-size: 5%;
-    padding-right: 5px;
+    
     
     
 }
@@ -15,7 +14,7 @@ span{
 }
 .text-width{
     width: 50%;
-    padding-left: 70px;
+    padding-left: 10%;
 }
 .text-size{
     size: 50px;
@@ -23,6 +22,7 @@ span{
 
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -40,3 +40,28 @@ p{
     font-size: large;
     color:slategrey;
 }
+
+  .dream-display{
+      display: flex;
+      padding-left: 10%;
+      padding-top: 10%;
+  }
+
+  .dream-display img{
+      width: 80%;
+  }
+  .dream-text{
+    width: 50%;
+    padding-right: 10%;
+  }
+
+ .h3-{
+     font-size: 30px;
+ }
+ .h4-{
+     font-size: 20px;
+ }
+ .p-{
+     text-align: justify;
+     font-size: large;
+ }
