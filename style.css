@@ -1,0 +1,42 @@
+.sec-display{
+    display: flex;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-size: 5%;
+    padding-right: 5px;
+    
+    
+}
+span{
+    color: orange;
+}
+.sec-display img{
+    width: 80%;
+}
+.text-width{
+    width: 50%;
+    padding-left: 70px;
+}
+.text-size{
+    size: 50px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 30px;  
+    border-radius: 5px;
+    color: aliceblue; 
+    font-weight: 700;   
+}
+p{
+    text-align: justify;
+    font-size: large;
+    color:slategrey;
+}
