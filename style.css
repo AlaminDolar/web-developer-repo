@@ -89,3 +89,24 @@ p{
  h2{
      font-size: 35px;
  }
+ .experience-area{
+     background-image: url(exp-bg.png);
+     background-repeat: no-repeat;
+     background-position: left;
+ }
+
+ #right{
+     border-left: 7px solid;
+     border-image: linear-gradient(blue,cyan);
+     border-image-slice: 1;
+ }
+ #left{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(255, 0, 43),rgb(243, 69, 185));
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    padding-bottom: 2%;
+}
